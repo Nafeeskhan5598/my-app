@@ -1,0 +1,31 @@
+.laptop-all-area{
+    background: #F8FAFC;
+    padding-bottom: 239px;
+}
+.laptop-text {
+    text-align: center;
+    padding-bottom: 16px;
+}
+.all-laptop{
+    display: flex;
+    justify-content: space-around;
+}
+.laptop-text h6{
+    text-transform: capitalize;
+    font-size: 18px;
+    font-family: DM Sans;
+    font-weight: 600;
+    color: #8D448B;
+    padding-bottom: 20px;
+    padding-top: 59px;
+}
+.laptop-text h5{
+    font-weight: 700;
+    letter-spacing: -0.09375rem;
+    font-size: 29px !important;
+    padding-bottom: 30px;
+    
+}
+.laptop-pro{
+    padding: 18px;
+}

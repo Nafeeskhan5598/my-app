@@ -1,0 +1,27 @@
+.child-area:hover {
+    margin: auto;
+    border-top: 5px solid #8D448B;
+}
+
+.child-first {
+    display: flex;
+    padding-top: 37px;
+    width: 252px;
+    display: flex;
+}
+
+.child-first .child-text {
+    display: grid;
+    padding-left: 10px;
+}
+
+.child-pera {
+    color: #566272;
+}
+
+.child-header {
+    color: #0F2137;
+    font-family: DM Sans;
+    font-size: 1.125rem;
+    font-weight: 600;
+}

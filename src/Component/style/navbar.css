@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Playfair+Display+SC&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Playfair+Display+SC&display=swap');
+
+.button-f .submit {
+  font-size: 14px;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  opacity: 0.8;
+  padding-left: 15px;
+}
+
+button {
+  border: none !important;
+  color: #8D448B;
+  font-family: DM Sans;
+  font-size: 1rem;
+  font-style: normal;
+  line-height: 1.5rem;
+  letter-spacing: -0.01rem;
+  font-weight: 600;
+  font-size: revert;
+  background: none;
+}
+
+.button-f {
+  margin-top: 10px;
+  padding-top: 5px;
+  text-align: center;
+  height: 43px;
+  width: 139px;
+  border-radius: 0.3125rem;
+  border: 2px solid #8D448B;
+}
+
+
+#basic-navbar-nav {
+  padding-left: 170px;
+}
+
+.bg-body-tertiary {
+  --bs-bg-opacity: 0 !important;
+}
+
+.navbar-nav {
+  font-family: 'DM Sans', sans-serif;
+}
+
+.bg-body-tertiary {
+  padding-left: 67px !important;
+
+}
+
+.logos {
+  padding-bottom: 0px !important;
+
+  padding-left: 17px;
+
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: #02073E !important;
+}

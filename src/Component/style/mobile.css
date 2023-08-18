@@ -1,0 +1,63 @@
+.mobile-text-area {
+    padding-top: 195px;
+    margin-left: -81px;
+    width: 501px;
+
+}
+
+.mobile-area {
+
+    padding-left: 111px !important;
+    padding-bottom: 145px;
+
+}
+
+#mobile-massage {
+    margin-top: 55px;
+}
+
+.mobile-text-area h2 {
+
+    color: #0F2137;
+    font-family: DM Sans;
+    font-size: 3rem;
+    font-size: 46px !important;
+    font-weight: 600;
+
+}
+
+.mobile-text-area h5 {
+    color: #343D48;
+    font-family: DM Sans;
+    font-size: 1.0625rem;
+    line-height: 33px;
+    text-align: inherit;
+
+}
+
+.mobile-text-area p {
+    font-size: 16px;
+    color: #566272;
+    line-height: 37px;
+}
+
+.mobile-text-area h6 {
+    color: #8D448B;
+}
+
+#learn-id {
+    margin-left: -50px
+}
+
+.backgound-massage {
+    margin-top: -520px;
+    width: 507px;
+    height: 520px;
+    background: #6cb5f5;
+    border-radius: 24%;
+    margin-left: 25px;
+}
+
+.plain-main-text img {
+    opacity: 0.9;
+}

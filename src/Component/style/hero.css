@@ -1,0 +1,118 @@
+.bg-body-tertiary {
+    padding-bottom: 70px !important;
+}
+
+.hero-section {
+    padding-bottom: 170px;
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-text-area {
+    width: 500px;
+    height: auto;
+}
+
+.hero-img-area {
+   width: 45rem;
+    height: 643px;
+    color: #F6F8FB;
+}
+
+.hero-header {
+    margin-top: 40px;
+}
+
+.hero-header h1 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    color: #02073E;
+    font-size: 3.2rem;
+}
+
+.hero-pera {
+    line-height: 31px;
+
+}
+
+.input-all-area {
+    display: flex;
+    padding-top: 22px;
+}
+
+.input-area {
+    border-radius: 13px;
+
+    background: #fff;
+    padding: 8px 10px 9px 23px;
+    width: 348px;
+    border: 1px solid #cdaeae;
+}
+
+.input-type {
+    border: none;
+    width: 100%;
+    color: #02073E;
+    font-family: DM Sans;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 2.5rem;
+
+}
+
+.input-btn {
+    border-radius: 8px;
+    text-align: center;
+    padding-top: 0px;
+    margin: 0px -85px 0px 13px;
+    margin-left: 15px;
+    width: 170px;
+    background: #8D448B;
+}
+
+.input-btn button {
+    background-color: #8D448B;
+    color: white;
+    font-weight: 600;
+    margin-top: 16px;
+    font-size: 20px;
+}
+
+.logo-item {
+    color: #566272;
+    justify-content: space-between;
+    margin-top: 40px;
+    display: flex;
+    list-style: none;
+}
+
+.logo-item li img {
+    width: 70px;
+}
+
+.hero-img-area img {
+    object-fit: cover;
+}
+
+.hero-img-area {
+    z-index: -1;
+}
+
+li {
+    font-style: normal;
+    font-weight: 400;
+    color: #a3a8af;
+    font-family: DM Sans;
+    font-size: 1.2rem;
+}
+
+.animate__swing {
+    transition-delay: 0.9s;
+}
+
+.hero-pera p {
+    color: #02073E;
+}

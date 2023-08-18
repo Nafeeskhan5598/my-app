@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Playfair+Display+SC&display=swap');
+
+.plain-area {
+
+    padding-bottom: 170px;
+}
+
+.plain-main-text {
+    height: 700px;
+    width: 525px;
+    padding-left: 120px;
+    width: none !important;
+    margin-top: 100px;
+}
+
+.plain-main-text h2 {
+    font-size: 44px !important;
+    font-weight: 700;
+    color: #0F2137;
+    font-family: DM Sans;
+    line-height: 2.8125rem;
+    line-height: 68px;
+    padding-bottom: 27px;
+}
+
+.plain-main-text p {
+    text-align: start;
+    color: #566272;
+    line-height: 35px;
+    /* font-size: 1px; */
+    padding-bottom: 22px;
+}
+
+.input-group-text .inp {
+
+    width: 62px;
+
+    border: none;
+}
+
+.input-group-text {
+    margin-top: -15px;
+}
+
+h4 {
+    color: #02073E;
+    font-family: DM Sans;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.learn-more {
+    display: flex;
+}
+
+.learn-more img {
+
+    margin-top: -5px;
+    padding-left: 10px;
+
+}
+
+.learn-text h6 {
+    padding-left: 54px;
+    font-size: 18px;
+    color: #8D448B;
+}
+
+.mb3 .inp {
+    height: 35px;
+    width: 35px;
+}
+
+.form-check-input:checked {
+    width: 29px;
+    height: 30px;
+    background-color: #a8b0bb !important;
+    border: none !important;
+}
+
+.form-check-input {
+    width: 29px;
+    height: 30px;
+    background-color: #a8b0bb !important;
+    border: none !important;
+}
+
+.form-check-input .inp {
+    width: 29px;
+    height: 30px;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.form-check-input[type=checkbox] {
+    width: 30px;
+    height: 30px;
+    border-radius: 3.25em !important;
+}
+
+.input-group:not(.has-validation)>:not(:last-child):not(.dropdown-toggle):not(.dropdown-menu):not(.form-floating) {
+    background: none;
+    border: none;
+}
+
+.form-check-input[type=checkbox] {
+    border-radius: none !important;
+}
+
+.backgound {
+
+    margin-top: -552px;
+    width: 507px;
+    height: 530px;
+    background: #6cb5f5;
+    border-radius: 50%;
+    margin-left: 25px;
+
+
+}
+
+.circle img {
+    opacity: 0.9;
+}
+
+.learn-text a {
+    text-decoration: none;
+}

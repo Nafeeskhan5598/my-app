@@ -1,16 +1,18 @@
-.card-img-top{
+.card-img-top {
     margin: auto;
 }
-.comment-area{
+
+.comment-area {
     display: flex;
     padding: 18px;
 }
-.card-text{
+
+.card-text {
     padding-left: 7px;
     color: #566272;
 }
 
-.child-txt h5{
+.child-txt h5 {
     font-weight: 700;
     color: #0F2137;
     font-family: DM Sans;
@@ -20,9 +22,11 @@
     line-height: 36px;
 
 }
-.comment-img-new{
+
+.comment-img-new {
     padding-top: 7px;
 }
-.child-laptop .card{
+
+.child-laptop .card {
     border-radius: 15px;
 }
